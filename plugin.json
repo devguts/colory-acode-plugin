@@ -1,0 +1,12 @@
+{
+  "id": "acode.plugin.colory",
+  "name": "Colory",
+  "version": "1.0.0",
+  "main": "main.js",
+  "icon": "icon.png",
+  "readme": "README.md",
+  "author": {
+    "name": "guts",
+    "github": "devguts"
+  }
+}
